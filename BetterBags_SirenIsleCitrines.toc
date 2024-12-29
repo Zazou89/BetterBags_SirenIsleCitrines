@@ -1,0 +1,10 @@
+## Interface: 110007
+## Title: BetterBags - Siren Isle Citrines
+## Author: Zazou
+## Version: @project-version@
+## Notes: Category for all the Cyrce's Circlet Citrine Gems
+## Dependencies: BetterBags
+## X-Curse-Project-ID: 1168108
+## IconTexture: Interface\Icons\inv_siren_isle_ring
+
+main.lua
