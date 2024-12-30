@@ -37,6 +37,7 @@ end
 --Cyrce's Circlet
 local CyrcesCirclet = {
     228411, --Cyrce's Circlet
+    229365, --Raw Singing Citrine
 }
 --Citrines
 local Citrines = {
